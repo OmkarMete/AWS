@@ -1,0 +1,6 @@
+*****************RDS*******************
+
+Password :- aC26rikSihZr5fjQTfKY
+UserName :- admin
+
+URL :- omkar.cnak6cg8qktv.ap-south-1.rds.amazonaws.com
